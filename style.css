@@ -1,0 +1,115 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+   background-color: rgb(24, 139, 91) ;
+ 
+   
+   
+}
+.logo h2{
+    position: relative;
+    top: 15px;
+    color: rgb(204, 214, 210);
+    text-shadow: 3px 4px 4px silver;
+    font-size: 40px;
+}
+nav a {
+  color:  rgb(204, 214, 210);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 22px;
+ text-shadow: 3px 4px 4px rgb(221, 214, 214);
+ position: fixed;
+}
+  
+
+
+.poem{
+    position: relative;
+    left: 700px;
+    bottom: 20px;
+}
+nav a:hover{
+    color: rgb(24, 139, 91) ;
+    background-color: white;
+}
+.poem1{
+    background-image: url(./child2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+}
+
+.mainText{
+    position: relative;
+    color: white;
+    top: 20%;
+    left: 200px;
+}
+.mainText h1{
+    bottom: 10px;
+    position: relative;
+    right: 90px;
+    color: rgb(24, 139, 91) ;
+    font-size: 50px;
+}
+.mainText p{
+    letter-spacing: 3px;
+    font-size: 25px;
+
+}
+.one{
+    margin-left: 70px;
+}
+.two{
+    margin-left: 50px;
+}
+.three{
+    margin-left: 50px;
+}
+.four{
+    margin-left: 100px;
+}
+.five{
+    margin-left: 70px;
+}
+.six{
+    margin-left: 50px;
+}
+.seven{
+    margin-left: 50px;
+}
+.eight{
+    margin-left: 50px;
+}
+
+.poem2{
+    background-image: url(./star.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:700px ;
+}
+.mainTexts{
+    position: relative;
+    color: white;
+    top: 10%;
+    text-align: center;
+
+}
+.mainTexts h1{
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+ .mainTexts p{
+    letter-spacing: 1px;
+    font-weight: bolder;
+    font-size: 30px;
+ }
